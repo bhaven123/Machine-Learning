@@ -1,1 +1,2 @@
-# Machine-Learning
+# Machine-Learning Internship & Training
+Eduvance conducts a 30 day training and internship program called the “Summer Industrial Training and Internship Program in Machine Learning using Python” (SIT 2018). This training is in collaboration with IBM Edtech Partner and Powered by IBM Cloud. The focus of this training is to give the student a hands-on experience to one of the hottest technologies that is revolutionizing the computer industry. After the training, students will be given free access to CISCO Networking Academy in collaboration with CISCO Networking Academy Academic Support Center. The student will be taught on how to implement machine learning algorithms using the IBM Watson platform.
